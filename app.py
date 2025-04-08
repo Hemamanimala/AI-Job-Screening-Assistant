@@ -1,4 +1,4 @@
-- app.py                  <- your Python Streamlit script
-- requirements.txt        <- dependencies
+- app.py                  
+- requirements.txt        
 - README.md
 - (optional) job_description.pdf
